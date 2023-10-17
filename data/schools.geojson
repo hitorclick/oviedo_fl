@@ -112,6 +112,20 @@
             },
             "type": "Feature"
         },
+   {
+            "geometry": {
+                "coordinates": [
+                    -81.1819267,
+                    28.6256463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Carillon Elementary School",
+                "name": "Carillon Elementary School"
+            },
+            "type": "Feature"
+        },
         {
             "geometry": {
                 "coordinates": [
