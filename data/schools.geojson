@@ -28,6 +28,20 @@
             },
             "type": "Feature"
         },
+{
+            "geometry": {
+                "coordinates": [
+                    -81.1779838,
+                    28.625119
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Haggerty High School",
+                "name": "Haggerty High School"
+            },
+            "type": "Feature"
+        },
         {
             "geometry": {
                 "coordinates": [
