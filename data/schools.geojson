@@ -126,6 +126,20 @@
             },
             "type": "Feature"
         },
+  {
+            "geometry": {
+                "coordinates": [
+                    -81.2053947,
+                    28.6417823
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Evans Elementary School",
+                "name": "Evans Elementary School"
+            },
+            "type": "Feature"
+        },
         {
             "geometry": {
                 "coordinates": [
