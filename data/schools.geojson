@@ -73,8 +73,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -81.199535,
-                    28.655544
+                    -81.2340334,
+                     28.6490569
                 ],
                 "type": "Point"
             },
@@ -87,8 +87,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -81.2340334,
-                    28.6490569
+                    -81.1583545,
+                    28.6539086
                 ],
                 "type": "Point"
             },
@@ -109,6 +109,20 @@
             "properties": {
                 "description": "Partin Elementary School",
                 "name": "Partin Elementary School"
+            },
+            "type": "Feature"
+        },
+   {
+            "geometry": {
+                "coordinates": [
+                    -81.2354142,
+                    28.6462327
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "St. Lukes Lutheran School",
+                "name": "St. Lukes Lutheran School"
             },
             "type": "Feature"
         },
