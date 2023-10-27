@@ -445,6 +445,20 @@ export const schools = {
             },
             "type": "Feature"
         },
+{
+            "geometry": {
+                "coordinates": [
+                    -81.1779838,
+                    28.625119
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Haggerty High School",
+                "name": "Haggerty High School"
+            },
+            "type": "Feature"
+        },
         {
             "geometry": {
                 "coordinates": [
@@ -490,28 +504,56 @@ export const schools = {
         {
             "geometry": {
                 "coordinates": [
-                    -81.199535,
-                    28.655544
+                    -81.2340334,
+                     28.6490569
                 ],
                 "type": "Point"
             },
             "properties": {
-                "description": "Mitchell Hammock's Nursery in Oviedo, Florida",
-                "name": "Mitchell Hammock's Nursery in Oviedo, Florida"
+                "description": "Master's Academy",
+                "name": "Master's Academy"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    -81.15578819999999,
-                    28.6538977
+                    -81.1583545,
+                    28.6539086
                 ],
                 "type": "Point"
             },
             "properties": {
                 "description": "Lawton Chiles Middle School",
                 "name": "Lawton Chiles Middle School"
+            },
+            "type": "Feature"
+        },
+   {
+            "geometry": {
+                "coordinates": [
+                    -81.1819267,
+                    28.6256463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Carillon Elementary School",
+                "name": "Carillon Elementary School"
+            },
+            "type": "Feature"
+        },
+  {
+            "geometry": {
+                "coordinates": [
+                    -81.2053947,
+                    28.6417823
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Evans Elementary School",
+                "name": "Evans Elementary School"
             },
             "type": "Feature"
         },
@@ -526,6 +568,20 @@ export const schools = {
             "properties": {
                 "description": "Partin Elementary School",
                 "name": "Partin Elementary School"
+            },
+            "type": "Feature"
+        },
+   {
+            "geometry": {
+                "coordinates": [
+                    -81.2354142,
+                    28.6462327
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "St. Lukes Lutheran School",
+                "name": "St. Lukes Lutheran School"
             },
             "type": "Feature"
         },
